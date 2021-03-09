@@ -1,0 +1,4 @@
+baseURL = "https://newpoems-aishitenamse.vercel.app"
+languageCode = "en-us"
+title = "Poems For Love"
+theme = "hugo-theme-minos"
